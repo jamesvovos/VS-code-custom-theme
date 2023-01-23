@@ -3,6 +3,11 @@
   "displayName": "coder-dark-pro-james",
   "description": "VS Code Theme Extension",
   "version": "0.0.1",
+  "publisher": "jvcodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesvovos/VS-code-custom-theme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
