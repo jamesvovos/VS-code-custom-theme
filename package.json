@@ -1,0 +1,21 @@
+{
+  "name": "coder-dark-pro-james",
+  "displayName": "coder-dark-pro-james",
+  "description": "VS Code Theme Extension",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coder Dark Pro James",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coder Dark Pro James-color-theme.json"
+      }
+    ]
+  }
+}
